@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809780234919",
+    "firebase_url": "https://windmill-f1971.firebaseio.com",
+    "project_id": "windmill-f1971",
+    "storage_bucket": "windmill-f1971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809780234919:android:0b2439f8bd90b89d42a982",
+        "android_client_info": {
+          "package_name": "com.example.windmill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809780234919-jp9hpvvbln4nnk6lpoq3g5j2021j3gmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxGqUHCfkgLrzGisOWTVaJm5tivrVvPpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809780234919-jp9hpvvbln4nnk6lpoq3g5j2021j3gmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
